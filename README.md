@@ -1,4 +1,4 @@
-# how to Create StopeWatch Time Clock With Js
+# How to Create StopeWatch Time Clock With Js
 
 ![image](https://github.com/MohdHadi72/Stope-Watch-Time/assets/154020781/ca5368ea-3fcc-4739-85da-c41d751a8ba8)
 # with Currect Time Stope 
